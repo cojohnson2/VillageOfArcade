@@ -1,0 +1,5 @@
+Tag = T, 1,AD, No Control, T
+tag = HX,2,AD, Hold Close, T
+tag = HO,2,AD, Hold Open, T
+tag = I ,7,AD, Work and Test Info, T
+nature_of_work = 1, Routine maintenance

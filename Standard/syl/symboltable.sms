@@ -1,0 +1,21 @@
+
+SYMBOL_TABLE "condition_flags"
+    {
+    "flagerror", "", "flagtelemetryfailed", "flagmanuallyset", "flagcalculated", "flagunset", "flagerror", "flagerror"
+    };
+
+SYMBOL_TABLE "tag_flags"
+    {
+    "", "flagfulltag", "flagholdopentag", "flagselected", "flagopening", "flagclosing", "flaginterlocking", "flaginformational", "flagholdclosetag"
+    };
+
+SYMBOL_TABLE "alarm_blocked"
+    {
+    "", "flagblocked" 
+    };
+
+SYMBOL_TABLE "owner_tags"
+    {
+    "IN",    "HO",    "HX"
+    };
+
